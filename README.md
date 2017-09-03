@@ -4,6 +4,8 @@
 #
 #
 
+#the next time I want to update this, I wil bring in about 6 more feeds including some forensic ones, and also find a way to automatically convert pure mxl feeds like the isc stormcast into something planet likes.
+
 \\\Treat each other awesomely -> "What are RSS feeds?"  Well, in this case it's like a web-based podcather, or place to summarize and index all the security-related podcasts.  
 
 Initially this was just a side-effect of gradually beginning to share personal blogs (blog.infosecfeeds.org) and the Computer Forensics Podcast (dfir.infosecfeeds.org or podcast.infosecfeeds.org).  I ended up with the url, and after a few conversations on twitter (reposted to  @infosecfeedsorg) about how an index or more lists of all "infosec" related security podcasts would be cool, we created this.
